@@ -1,0 +1,19 @@
+# env / secrets
+.env
+.env.*
+!.env.example
+
+# deps & builds
+node_modules/
+.next/
+dist/
+build/
+coverage/
+
+# uploads (배송 사고 사진 등)
+uploads/
+
+# OS / editor
+.DS_Store
+.vscode/
+*.log
