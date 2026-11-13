@@ -3,6 +3,9 @@
 농산물 직거래 농가 "햇살농원"(AX Campus 해커톤 고객사 15)을 위한 주문·출고 관리 웹앱.
 스마트스토어·카카오톡·전화 주문을 **주문자 전화번호** 기준으로 한곳에 모으고, **남은 수량**과 **발송 규칙(15시 마감·월~목·입금 확인)** 을 서버가 지킨다.
 
+- **배포 주소**: https://frontend-gray-zeta-4mhqfzk9aj.vercel.app (고객 주문서: https://frontend-gray-zeta-4mhqfzk9aj.vercel.app/order)
+- **API**: https://haetsal-backend.onrender.com/health (Render 무료 — 처음 접속은 30~50초 걸릴 수 있음)
+- **저장소**: https://github.com/raramen98/haetsal-farm
 - 문서: [요구사항 정의서](docs/요구사항정의서.md) · [기획서](docs/기획서.md) · [기능 명세서](docs/기능명세서.md) · [테스트 결과표](docs/테스트결과표.md) · [인터뷰 기록](docs/인터뷰기록.md)
 - 시험 자료(가상): [스마트스토어 주문 엑셀](docs/시험자료/스마트스토어_주문_샘플.xlsx) · [카톡 주문 예시](docs/시험자료/카톡주문_예시.md)
 
